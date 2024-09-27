@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ws101-muhi-navbar/static/css/main.cefe58fe.css",
+    "main.js": "/ws101-muhi-navbar/static/js/main.b7443612.js",
+    "index.html": "/ws101-muhi-navbar/index.html",
+    "main.cefe58fe.css.map": "/ws101-muhi-navbar/static/css/main.cefe58fe.css.map",
+    "main.b7443612.js.map": "/ws101-muhi-navbar/static/js/main.b7443612.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cefe58fe.css",
+    "static/js/main.b7443612.js"
+  ]
+}
